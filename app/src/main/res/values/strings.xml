@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">PingPongAndroid</string>
+    <string name="titulo_player">PingPong X</string>
+    <string name="subtitulo_player">Vai começar a partida!</string>
+    <string name="info_player">Preencha abaixo, o nome dos jogadores:</string>
+    <string name="text_jogador_1">Jogador 1</string>
+    <string name="text_jogador_2">Jogador 2</string>
+    <string name="text_iniciar_partida">Iniciar Partida</string>
+    <string name="partida_pingpongx">Partida PingPongX</string>
 </resources>

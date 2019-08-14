@@ -12,10 +12,11 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" app:srcCompat="@drawable/ic_logo_ping_pong"
             android:id="@+id/imageView"
-            app:layout_constraintTop_toTopOf="parent" app:layout_constraintStart_toSt8artOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
             android:layout_marginStart="8dp" app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginBottom="8dp" app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintVertical_bias="0.25" android:layout_marginTop="8dp" android:layout_marginEnd="8dp"/>
+            app:layout_constraintVertical_bias="0.25" android:layout_marginTop="8dp" android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"/>
     <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" app:srcCompat="@drawable/ic_ping_pong_x"

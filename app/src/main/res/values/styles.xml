@@ -14,4 +14,26 @@
         <item name="android:windowFullscreen">true</item>
     </style>
 
+    <style name="divider">
+        <item name="android:background">@color/colorDivider</item>
+        <item name="android:layout_height">1dp</item>
+    </style>
+
+    <style name="home_editText">
+        <item name="android:background">@drawable/home_background</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textColorHint">#FFFFFF</item>
+    </style>
+
+    <style name="home2_editText">
+        <item name="android:background">@drawable/home_background2</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textColorHint">#FFFFFF</item>
+    </style>
+
+    <style name="button_style">
+        <item name="android:background">@drawable/custom_button</item>
+        <item name="android:textColor">#25206B</item>
+    </style>
+
 </resources>
